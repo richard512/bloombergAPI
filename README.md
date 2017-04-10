@@ -1,4 +1,6 @@
 # bloombergAPI
+The bbAPI.py is same with Excel BDH, BDP and BDS functions.
+
 ## Bloomberg Historical Data Request
 df = BDH("AAPL US EQUITY", "PX_LAST", "20150101", "20150103")
 

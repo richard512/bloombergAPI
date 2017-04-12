@@ -10,8 +10,9 @@ df = BDP("AAPL US EQUITY", "PX_LAST")
 ## Bloomberg Data Set Request
 df = BDS("AAPL US EQUITY", "DVD_HIST_ALL")
 
-# BloombergAPI_cpp
 
+
+_________________________________________________________________________
 
 # C++ Script
 ## Bloomberg Historical Data Request (BDH)

@@ -1,6 +1,8 @@
-# Python Script
-The bbAPI.py is same with Excel BDH, BDP and BDS functions.
+# bloombergAPI
+It is a wrapper for bloomberg API. The request data function is same with Bloomberg function in Excel. With this wrapper, you can download ton of data from bloomberg with beautiful strcuture.
+__________________________________________________________________________________
 
+# Python Script
 ## Bloomberg Historical Data Request
 df = BDH("AAPL US EQUITY", "PX_LAST", "20150101", "20150103")
 
